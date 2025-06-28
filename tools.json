@@ -1,0 +1,8 @@
+{
+  "tmux": "mkdir -p ~/.config && git clone https://github.com/dip-pvt/tmux.git ~/.config/tmux",
+  "nvim": "mkdir -p ~/.config && git clone https://github.com/dip-pvt/nvim.git ~/.config/nvim",
+  "i3": "mkdir -p ~/.config && git clone https://github.com/dip-pvt/i3.git ~/.config/i3",
+  "i3status": "mkdir -p ~/.config && git clone https://github.com/dip-pvt/i3status.git ~/.config/i3status",
+  "kitty": "mkdir -p ~/.config && git clone https://github.com/dip-pvt/kitty.git ~/.config/kitty",
+  "fish": "mkdir -p ~/.config && git clone https://github.com/dip-pvt/fish.git ~/.config/fish"
+}
